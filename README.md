@@ -6,8 +6,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=520&height=40&color=58A6FF&lines=Student+in+Tokyo;Embedded+%26+PCB+design;C%2B%2B+and+Rust;Automating+KiCad+with+agents">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=520&height=40&color=0969DA&lines=Student+in+Tokyo;Embedded+%26+PCB+design;C%2B%2B+and+Rust;Automating+KiCad+with+agents">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=520&height=40&color=58A6FF&lines=Based+in+Tokyo;Embedded+%26+PCB+design;C%2B%2B+and+Rust;Automating+KiCad+with+agents">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=520&height=40&color=0969DA&lines=Based+in+Tokyo;Embedded+%26+PCB+design;C%2B%2B+and+Rust;Automating+KiCad+with+agents">
 </picture>
 
 </div>
